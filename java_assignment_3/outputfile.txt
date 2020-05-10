@@ -1,0 +1,2 @@
+the current file is to read using byte stream and char stream.
+read the input file and write to output file using byte stream and also char stream.
